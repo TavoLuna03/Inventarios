@@ -1,6 +1,6 @@
 # Sistema para manejo  de inventario 
 
-###Backend
+Backend
 
 Crear base de datos:
 
